@@ -1,2 +1,2 @@
-# NodeWebSocket
-API Restful utilizando Express e Web Socket utilizando DB SQLite.
+#  API Restful
+Chat de atendimento ultilizando Web Socket, nodejs e banco de dados SQLlite. 
